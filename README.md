@@ -5,6 +5,28 @@
 🎓 Master's Student in AI Software at Sunmoon University
 
 ---
+## 💻 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vue,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
+</p>
+
+---
+
 
 ## 🚀 Featured Projects
 
@@ -36,27 +58,6 @@ Social media application inspired by Threads.
 
 ---
 
-## 💻 Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vue,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
-</p>
-
----
 
 ## 🎓 Education
 
